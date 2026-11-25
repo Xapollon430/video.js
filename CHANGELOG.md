@@ -2,7 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
-## [@videojs/core@10.7.0] - 2026-11-24
+## [@videojs/core@10.7.1] - 2026-11-25
+
+### 🐛 Bug Fixes
+- *(react)* Stop menu option-state update loop under React 18 StrictMode ([#9845](https://github.com/videojs/video.js/pull/9845)) by [@spuppo-mux](https://github.com/spuppo-mux)
+
+### 📚 Documentation
+- *(site)* Add changelog prose for 10.7.0 ([#9849](https://github.com/videojs/video.js/pull/9849)) by [@github-actions[bot]](https://github.com/github-actions[bot])
+
+## [@videojs/core@10.7.0] - 2026-11-25
 
 ### 🚀 Features
 - *(core)* Add auto orientation lock type ([#9806](https://github.com/videojs/video.js/pull/9806)) by [@Codinplus31](https://github.com/Codinplus31)
@@ -2588,6 +2596,7 @@ All notable changes to this project will be documented in this file.
 * @decepulis made their first contribution in [#118](https://github.com/videojs/v10/pull/118)
 * @heff made their first contribution
 
+[@videojs/core@10.7.1]: https://github.com/videojs/video.js/compare/@videojs/core@10.7.0...@videojs/core@10.7.1
 [@videojs/core@10.7.0]: https://github.com/videojs/video.js/compare/@videojs/core@10.6.0...@videojs/core@10.7.0
 [@videojs/core@10.6.0]: https://github.com/videojs/video.js/compare/@videojs/core@10.5.0...@videojs/core@10.6.0
 [@videojs/core@10.5.0]: https://github.com/videojs/video.js/compare/@videojs/core@10.4.0...@videojs/core@10.5.0
